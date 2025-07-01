@@ -70,18 +70,18 @@ Cette application Laravel permet de gérer efficacement les ressources humaines 
 ## 📷 Captures d’écran
 
 ### 🔐 Page de connexion
-![Login](captures/login.PNG)
+![Login](screenshots/login.PNG)
 
 ### 📄 Gestion des employés
-![Employés](captures/employee.PNG)
+![Employés](screenshots/employee.PNG)
 
 ### 📆 Gestion des congés
-![Congés](captures/listecng.PNG)
+![Congés](screenshots/listecng.PNG)
 
 ### 📑 Réclamations 
-![Reclamations](addreclamation.png)
+![Reclamations](screenshots/addreclamation.PNG)``
 
 
-## 📂 Dossier des captures d'écran
+## 📂 Dossier des screenshots d'écran
 
 Toutes les captures d’écran utilisées dans ce projet sont disponibles dans le dossier [`/screenshots`](screenshots/).
